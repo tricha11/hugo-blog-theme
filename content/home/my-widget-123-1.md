@@ -4,7 +4,7 @@ widget_id: my-widget-123
 headless: true
 weight: 10
 title: ""
-active: true
+active: false
 design:
   columns: "1"
   background:
