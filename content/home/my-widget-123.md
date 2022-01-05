@@ -1,6 +1,6 @@
 ---
-widget: https://vvsrlab.netlify.app/
-widget_id: my-widget-123
+widget: https://wowchemy.com/docs/getting-started/page-builder/
+widget_id: mission statement
 headless: true
 weight: 10
 title: Victimology and Victim Services Research Lab
