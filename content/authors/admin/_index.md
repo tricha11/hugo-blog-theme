@@ -1,6 +1,6 @@
 ---
 title: Tara Richards
-role: 数据科学家
+role: Associate Professor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
