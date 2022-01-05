@@ -5,9 +5,9 @@ subtitle: OVW funds will support Dr. Richards and Wright's evaluation of the
 date: 2022-01-05T04:35:23.156Z
 summary: ""
 draft: false
-featured: false
+featured: true
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
