@@ -12,7 +12,7 @@ design:
     image_darken: 0
     image: ""
 ---
-![](shadows-2-1430931.jpg)
+![]()
 
 <!--StartFragment-->
 
