@@ -1,26 +1,22 @@
 ---
-title: Tara Richards
-role: Associate Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Victimology and Victim Studies Research Lab
+role: ""
+avatar_filename: null
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
 ---
+<!--StartFragment-->
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The mission of the Victimology and Victim Studies Research Lab (VVSRL) is to conduct high quality research related to crime victims and crime victimization, inform policy and practice, and help shape prevention and intervention efforts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The VVSRL draws from undergraduate students engaged in UNO’s School of Criminology and Criminal Justice’s (SCCJ) victim studies concentration/minor and SCCJ’s masters and doctoral students and utilizes a structured mentoring model to develop future generations of victimology scholars. VVSRL student and faculty researchers have the opportunity to work across the Lab’s diverse portfolio of funded projects and future grant proposals promoting cross-teaching and learning and cultivating peer-to-peer mentorship.
+
+<!--EndFragment-->
