@@ -12,6 +12,8 @@ design:
     image_darken: 0
     image: ""
 ---
+![](shadows-2-1430931.jpg)
+
 <!--StartFragment-->
 
 The mission of the Victimology and Victim Studies Research Lab (VVSRL) is to conduct high quality research related to crime victims and crime victimization, inform policy and practice, and help shape prevention and intervention efforts.
