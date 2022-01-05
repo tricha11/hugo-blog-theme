@@ -4,10 +4,7 @@ role: ""
 avatar_filename: null
 bio: ""
 interests: []
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
+social: []
 organizations: []
 superuser: true
 status:
