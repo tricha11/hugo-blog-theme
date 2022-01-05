@@ -2,22 +2,14 @@
 title: VVSRL receives grant from Office of Violence Against Women
 subtitle: OVW funds will support Dr. Richards and Wright's evaluation of the
   Seattle's Domestic Violence Intervention Project
-date: 2020-12-13T00:00:00Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+date: 2022-01-05T04:35:23.156Z
+summary: ""
 draft: false
 featured: false
-authors:
-  - admin
-  - 美杨
+authors: []
 lastmod: 2020-12-13T00:00:00Z
-tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+tags: []
+categories: []
 projects: []
 image:
   caption: ""
