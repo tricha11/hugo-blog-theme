@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: shadows-2-1430931.jpg
+    image: ""
 ---
 <!--StartFragment-->
 
